@@ -1,4 +1,4 @@
 # kecDemo
 This is my first repository
 <br>
-Author - Soumyaranjans
+Author - Soumyaranjan Sahoo
